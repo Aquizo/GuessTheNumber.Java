@@ -20,6 +20,6 @@ public class Main {
             } else if (sla > 10){
                 System.out.println("Coloque só números de 1 a 10!");
             }
-        }
+        } 
     }
 }
